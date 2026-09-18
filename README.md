@@ -12,13 +12,9 @@ Built with Python, FastAPI, Streamlit, Scikit-learn, and the TMDB API.
 
 ## Live Demo
 
-Frontend: YOUR_STREAMLIT_URL
+Frontend: https://movie-recommendation-system-burhan.streamlit.app/
 
 Backend API: YOUR_FASTAPI_URL
-
-API Documentation: YOUR_FASTAPI_URL/docs
-
-Replace the URLs above with the actual deployment URLs after deployment.
 
 ---
 
@@ -458,7 +454,7 @@ Areas of Focus:
 * Generative AI
 * AI Engineering
 
-GitHub: https://github.com/burhan-arshad24
+GitHub: https://github.com/burhan-arshad
 
 ---
 
