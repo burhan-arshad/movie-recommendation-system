@@ -36,7 +36,7 @@ def get_config(key, default=None):
 
 API_BASE_URL = get_config(
     "API_BASE_URL",
-    "http://127.0.0.1:8000"
+    "https://movie-recommendation-system-burhan.onrender.com"
 ).rstrip("/")
 
 
