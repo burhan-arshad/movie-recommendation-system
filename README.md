@@ -14,7 +14,7 @@ Built with Python, FastAPI, Streamlit, Scikit-learn, and the TMDB API.
 
 Frontend: https://movie-recommendation-system-burhan.streamlit.app/
 
-Backend API: YOUR_FASTAPI_URL
+Backend API: https://movie-recommendation-system-burhan.onrender.com
 
 ---
 
@@ -102,15 +102,25 @@ Movies with higher cosine similarity scores are considered more similar.
 
 CineMatch/
 ├── app.py
+
 ├── main.py
+
 ├── Movie.ipynb
+
 ├── df.pkl
+
 ├── indices.pkl
+
 ├── tfidf.pkl
+
 ├── tfidf_matrix.pkl
+
 ├── requirements.txt
+
 ├── .gitignore
+
 ├── .env.example
+
 └── README.md
 
 The following files are intentionally excluded from the repository:
@@ -245,9 +255,7 @@ This endpoint combines:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/burhan-arshad24/CineMatch.git
-
-cd CineMatch
+git clone https://github.com/burhan-arshad/movie-recommendation-system
 
 ### 2. Create a Virtual Environment
 
