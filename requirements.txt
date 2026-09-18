@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+httpx
+python-dotenv
+pandas
+numpy
+scikit-learn==1.6.1
